@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/87136660/195354168-2b3127f9-e758-42ea-8a7f-971930ea50a9.png)"> 
+<img align="right" alt="Coding" width="400" src="[![image](https://user-images.githubusercontent.com/87136660/195354168-2b3127f9-e758-42ea-8a7f-971930ea50a9.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw0Rm6g3-9d57QXXLNOnSGB4&ust=1665666840832000&source=images&cd=vfe&ved=0CAwQjRxqGAoTCKi3zNPi2voCFQAAAAAdAAAAABCvAQ)"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashk786&label=Profile%20views&color=0e75b6&style=flat" alt="yashk786" /> </p>
 
