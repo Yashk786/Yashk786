@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://yashk786.github.io/](https://yashk786.github.io/)
+- 👨‍💻 All of my projects are available at [https://yashk786.github.io/]([https://yashk786.github.io/](https://yashk786.github.io/portfolio/))
 
 - 💬 Ask me about **Web Development**
 
