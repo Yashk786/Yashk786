@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashk786&label=Profile%20views&color=0e75b6&style=flat" alt="yashk786" /> </p>
 
-- 🌱 I’m currently learning **React.js**
-
-- 👨‍💻 All of my projects are available at [https://yashk786.github.io/](https://yashk786.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://devyash.vercel.app/](https://devyash.vercel.app/)
 
 - 💬 Ask me about **Web Development**
 
